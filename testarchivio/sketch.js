@@ -51,10 +51,10 @@ class luogo {
 
 //---constructor LUOGO (lat, long, nome_file, luogo, giorno/mese/anno, tecnica_microfonica, annotazioni, inquinamento, colore)
 
-const terminio = new luogo(40.83874, 14.9383, 'in.wav', 'Terminio', '15.06.2018', 'MS', 'bene ma non benissimo');
-const accellica = new luogo(40.777, 15.006, '01 San Biagio', 'Accellica', '12.11.2020', 'XY 90°', 'ammappete');
+const terminio = new luogo(40.83874, 14.9383, 'ex.wav', 'Terminio', '15.06.2018', 'MS', 'bene ma non benissimo');
+const accellica = new luogo(40.777, 15.006, '01 San Biagio.wav', 'Accellica', '12.11.2020', 'XY 90°', 'ammappete');
 const terminio2 = new luogo(40.94874, 14.9383, 'in.wav', 'Lucareneto', '07.02.2016', 'XY 120°', 'è il sottobosco');
-const accellica2 = new luogo(40.877, 15.006, '01 San Biagio', 'Sottobosco', '31.12.2019', 'BINAURALE', 'un lucareneto');
+const accellica2 = new luogo(40.877, 15.006, '01 San Biagio.wav', 'Sottobosco', '31.12.2019', 'BINAURALE', 'un lucareneto');
 
 let luoghi = [terminio, accellica, terminio2, accellica2]
 
