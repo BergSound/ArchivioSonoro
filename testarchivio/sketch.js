@@ -88,7 +88,8 @@ function preload() {
 
 function setup() {
  
-  canvas = createCanvas(displayWidth, displayHeight) 
+  //canvas = createCanvas(displayWidth, displayHeight) 
+  canvas = createCanvas(800, 400)
 
   myMap = mappa.tileMap(options)
   myMap.overlay(canvas)
