@@ -82,10 +82,10 @@ class luogo {
 
 //---constructor LUOGO (lat, long, nome_file, luogo, giorno/mese/anno, tecnica_microfonica, annotazioni, colore, inquinamento)
 
-const terminio = new luogo(40.83874, 14.9383, 'ex.wav', 'Terminio', '15.06.2018', 'MS', 'bene ma non benissimo');
-const accellica = new luogo(40.777, 15.006, '01 San Biagio.wav', 'Accellica', '12.11.2020', 'XY 90°', 'ammappete');
-const terminio2 = new luogo(40.94874, 14.9383, 'in.wav', 'Lucareneto', '07.02.2016', 'XY 120°', 'è il sottobosco');
-const accellica2 = new luogo(40.877, 15.006, 'ambientone_laghi.wav', 'Sottobosco', '31.12.2019', 'BINAURALE', 'un lucareneto');
+const terminio = new luogo(40.83874, 14.9383, 'in.wav', 'Terminio', '15.06.2018', 'MS', 'bene ma non benissimo', 'acqua');
+const accellica = new luogo(40.777, 15.006, 'in.wav', 'Accellica', '12.11.2020', 'XY 90°', 'ammappete', 'altro');
+const terminio2 = new luogo(40.94874, 14.9383, 'in.wav', 'Lucareneto', '07.02.2016', 'XY 120°', 'è il sottobosco', 'vetta');
+const accellica2 = new luogo(40.877, 15.006, 'in.wav', 'Sottobosco', '31.12.2019', 'BINAURALE', 'un lucareneto', 'bosco');
 
 let luoghi = [terminio, accellica, terminio2, accellica2]
 
@@ -169,7 +169,7 @@ function setup() {
   myMap = mappa.tileMap(options)
   myMap.overlay(canvas)
    
-}
+} //fine setup
 
 function getpx(x, y) {
 	return myMap.latLngToPixel(x, y);
@@ -222,7 +222,7 @@ for (const i of luoghi) {
 //-----------gestione player audio---------//
   
 play_suono[n] = suoni[n].isPlaying();  
- /*
+ 
 if (check_box[n] == true) {
   
 //-----------gestione picentini mix---------//
@@ -258,7 +258,7 @@ if (check_box[n] == true) {
      tempo_traccia = 1;
      durata_traccia = 0;
   }
-  */ 
+   
  if (suoni[n].isPlaying() == true) {
   
   alfa[n] = 255;
