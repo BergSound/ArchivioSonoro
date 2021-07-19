@@ -222,7 +222,7 @@ for (const i of luoghi) {
 //-----------gestione player audio---------//
   
 play_suono[n] = suoni[n].isPlaying();  
- 
+ /*
 if (check_box[n] == true) {
   
 //-----------gestione picentini mix---------//
@@ -258,7 +258,7 @@ if (check_box[n] == true) {
      tempo_traccia = 1;
      durata_traccia = 0;
   }
-   
+  */ 
  if (suoni[n].isPlaying() == true) {
   
   alfa[n] = 255;
