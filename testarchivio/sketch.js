@@ -86,7 +86,7 @@ const monte_mai = new luogo(40.790808, 14.874866, 'vento_monte_mai_2_07_2018_16_
 
 const grotta_scalandrone = new luogo(40.767823, 14.993144, 'grotta_scalandone_08_06_17.wav', 'Grotta dello Scalandrone', '08.06.2017 15:30', 'XY 120°', 'Cascata dentro la grotta, registrata dalla spiaggetta', 'acqua');
 
-const vallone_vallatruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21.wav', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
+const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21wav.wav', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
 
 const pendici_accellica = new luogo(40.782567, 14.983494, 'AccellicaNord_15_08_16_12.38.wav', 'Pendici Monte Accellica - versante Nord', '15.08.2016 12:38', 'XY 90°', 'Suoni di bosco sul sentiero per la vetta nord', 'bosco');
 
@@ -109,7 +109,11 @@ const lago_conza_alba = new luogo(40.882951, 15.319318, 'alba_conza.wav', 'Lago 
 const sorgente_sabato = new luogo(40.787036, 14.98379, 'Fiume_Lontano_FiumeSabato_agosto_2017.wav', 'Sorgente Fiume Sabato', 'agosto 2017', 'XY 90°', 'Fiume nel bosco', 'acqua');
 
 
-let luoghi = [monte_mai, grotta_scalandrone, vallone_vallatruonolo, pendici_accellica, pendici_san_michele, pizzo_san_michele, lago_laceno, castel_franci, raio_tufara, valli_50, lago_conza_rane, lago_conza_alba, sorgente_sabato]
+let luoghi = [monte_mai, grotta_scalandrone, vallone_matruonolo, 
+	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
+	      lago_laceno, castel_franci, raio_tufara, 
+	      valli_50, lago_conza_rane, lago_conza_alba, 
+	      sorgente_sabato]
 
 let numero_luoghi = luoghi.lenght;
 
