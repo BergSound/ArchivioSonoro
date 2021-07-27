@@ -110,10 +110,10 @@ const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_c
 
 
 let luoghi = [monte_mai, grotta_scalandrone, 
-	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
+	      pendici_accellica]/*, pendici_san_michele, pizzo_san_michele, 
 	      lago_laceno, castel_franci, raio_tufara, 
 	      valli_50, lago_conza_rane, lago_conza_alba, 
-	      sorgente_sabato, vallone_matruonolo] 
+	      sorgente_sabato, vallone_matruonolo] */
 
 let numero_luoghi = luoghi.lenght;
 
