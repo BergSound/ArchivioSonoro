@@ -109,7 +109,7 @@ const sorgente_sabato = new luogo(40.787036, 14.98379, 'Fiume_Lontano_FiumeSabat
 const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21wav.wav', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
 
 
-let luoghi = [monte_mai, grotta_scalandrone, 
+let luoghi = [monte_mai, grotta_scalandrone] /*, 
 	      pendici_accellica]/*, pendici_san_michele, pizzo_san_michele, 
 	      lago_laceno, castel_franci, raio_tufara, 
 	      valli_50, lago_conza_rane, lago_conza_alba, 
