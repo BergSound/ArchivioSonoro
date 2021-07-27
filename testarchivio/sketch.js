@@ -101,7 +101,7 @@ const castel_franci = new luogo(40.915295, 15.039577, 'castel_franci_9_05_21_10_
 
 const raio_tufara = new luogo(40.8341614, 15.0089888, 'raio_della_tufara_12_10_2018.wav', 'Raio della Tufara - Affluente dello Scorzella', '12.10.2018 10:00', 'XY 90°', 'Ruscello che cade in piscine naturali da tuffi a cufaniello', 'acqua');
 
-const valli_50 = new luogo(40.4840564, 14.5855204, 'uccelli_terminio_10_06_19_16_35.wav', 'Terminio - Valli Cinquanta', '10.06.2019 16:35', 'BINAURALE', 'piccola valle con concerto di uccelli', 'bosco'); 
+const valli_50 = new luogo(40.806648, 14.976238, 'uccelli_terminio_10_06_19_16_35.wav', 'Terminio - Valli Cinquanta', '10.06.2019 16:35', 'BINAURALE', 'piccola valle con concerto di uccelli', 'bosco'); 
 
 const lago_conza_rane = new luogo(40.881527, 15.29451, 'conza_rane 8_09_21_11_35.wav', 'Lago di Conza', '08.09.2021 11:35', 'XY 90°', 'Rane sul lago, con suoni di traffico della statale', 'altro');
 
@@ -111,11 +111,11 @@ const sorgente_sabato = new luogo(40.787036, 14.98379, 'Fiume_Lontano_FiumeSabat
 
 const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21wav.wav', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
 
-const nevicata = new luogo(40.4780725, 14.598601, 'nevicata_13_01_19_15_58.wav', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
+const nevicata = new luogo(40.796107, 14.998455, 'nevicata_13_01_19_15_58.wav', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
 
 
 
-let luoghi = [monte_mai, grotta_scalandrone, vallone_vallatruonolo, 
+let luoghi = [monte_mai, grotta_scalandrone, vallone_matruonolo, 
 	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
 	      lago_laceno, castel_franci, raio_tufara, 
 	      valli_50, lago_conza_rane, lago_conza_alba, 
