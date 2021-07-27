@@ -24,11 +24,6 @@ let h_font;
 let colori = []
 let rosso = [], verde = [], blu = [], alfa = [];
 
-let box = [true, true, true, true, false];
-let box_x = [190, 290, 390, 490, 725];
-let box_y = [22,   22,  22,  22,  22];
-let check_box = [];
-let trigger_box = false, trigger_box_pre = false;
 
 let play_suono = [], play_suono_pre = [];
 
@@ -38,6 +33,14 @@ let max_tracce_mix = 4;
 let tempo_traccia = 1, durata_traccia = 0;
 let nuova_traccia, ultima_traccia;
 
+let larghezza; 
+let larghezza_box_mix;
+
+let box = [true, true, true, true, false];
+let box_x = [190, 290, 390, 490, 0];
+let box_y = [22,   22,  22,  22,  22];
+let check_box = [];
+let trigger_box = false, trigger_box_pre = false;
 
 class luogo {
 	
@@ -111,11 +114,12 @@ const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_c
 const nevicata = new luogo(40.4780725, 14.598601, 'nevicata_13_01_19_15_58.wav', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
 
 
-let luoghi = [monte_mai, grotta_scalandrone] 
+
+let luoghi = [monte_mai, grotta_scalandrone, vallone_vallatruonolo, 
 	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
 	      lago_laceno, castel_franci, raio_tufara, 
 	      valli_50, lago_conza_rane, lago_conza_alba, 
-	      sorgente_sabato, vallone_matruonolo, nevicata]
+	      sorgente_sabato, nevicata]
 
 let numero_luoghi = luoghi.lenght;
 
@@ -189,15 +193,20 @@ function preload() {
 
 function setup() {
  
-  canvas = createCanvas(800,400);
+  canvas = createCanvas(displayWidth,displayHeight * 0.7);
   
-  h_rett = height * 0.22;
+  h_rett = height * 0.18;
   h_font = h_rett * 0.15;
-
+  
+  larghezza = displayWidth;
+  box_x[4] = larghezza - 75;
+  
   myMap = mappa.tileMap(options)
   myMap.overlay(canvas)
    
 } //fine setup
+
+
 
 function getpx(x, y) {
 	return myMap.latLngToPixel(x, y);
@@ -365,7 +374,7 @@ if (check_box[n] == true) {
  fill(255, 255, 255)
  
  rect(80, 12, 440, 40) //rettangolo attiva etichette suoni
- rect(600, 12, 155, 40) //rettangolo attiva PicentiniMix
+ rect(larghezza - 200, 12, 155, 40) //rettangolo attiva PicentiniMix
   
  fill(0, 0, 0);
  textSize(h_font);
@@ -374,7 +383,7 @@ if (check_box[n] == true) {
  text ('Bosco', 245, 36);
  text ('Vetta', 350, 36);
  text ('Altro', 450, 36);
- text ('Attiva PicentiniMix', 604, 36);
+ text ('Attiva PicentiniMix', larghezza - 196, 36);
   
  fill(0, 150, 255, 50 + 155 * box[0]); //acqua
  rect(box_x[0], box_y[0], 20, 20);
