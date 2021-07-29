@@ -5,6 +5,7 @@
 //doppio click del mouse zoomma la mappa
 
 //usare save() per permettere il download del file
+//aggiungere check box stagioni
 
 let myMap;
 let canvas;
@@ -24,11 +25,10 @@ let h_font;
 let colori = []
 let rosso = [], verde = [], blu = [], alfa = [];
 
-
 let play_suono = [], play_suono_pre = [];
 
 let tracce_mix_attive = 0;
-let max_tracce_mix = 4;
+let max_tracce_mix = 3;
 
 let tempo_traccia = 1, durata_traccia = 0;
 let nuova_traccia, ultima_traccia;
@@ -42,12 +42,15 @@ let box_y = [22,   22,  22,  22,  22];
 let check_box = [];
 let trigger_box = false, trigger_box_pre = false;
 
+let tempo = 0;
+let tempo_mix = 1500; //inizializzo tempo per partenza traccia successiva
+
 class luogo {
 	
   constructor(x, y, n_file, n_luogo, datazione, mic, note, color) {
 		
         this.x = x
-		this.y = y
+	this.y = y
         this.n_file = n_file
         this.n_luogo = n_luogo
         this.datazione = datazione
@@ -114,14 +117,14 @@ const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_c
 const nevicata = new luogo(40.796107, 14.998455, 'nevicata_13_01_19_15_58.wav', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
 
 
-
 let luoghi = [monte_mai, grotta_scalandrone, vallone_matruonolo, 
 	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
 	      lago_laceno, castel_franci, raio_tufara, 
 	      valli_50, lago_conza_rane, lago_conza_alba, 
 	      sorgente_sabato, nevicata]
 
-let numero_luoghi = luoghi.lenght;
+
+let numero_luoghi = luoghi.length;
 
 let suoni = [];
 let nomi_suoni = [];
@@ -198,7 +201,7 @@ function setup() {
   h_rett = height * 0.18;
   h_font = h_rett * 0.15;
   
-  larghezza = displayWidth;
+  larghezza = width;
   box_x[4] = larghezza - 75;
   
   myMap = mappa.tileMap(options)
@@ -207,10 +210,10 @@ function setup() {
 } //fine setup
 
 
-
 function getpx(x, y) {
 	return myMap.latLngToPixel(x, y);
 }
+
 
 function draw() {
   
@@ -237,7 +240,6 @@ for (let i = 0; i < 5; i++) {
    }   
   }
 }
-
   
 for (const i of luoghi) {
     
@@ -257,45 +259,12 @@ for (const i of luoghi) {
    }
   
 //-----------gestione player audio---------//
-  
-play_suono[n] = suoni[n].isPlaying();  
  
 if (check_box[n] == true) {
   
-//-----------gestione picentini mix---------//
- 
-  if (box[4] == true) {
+   cord_x[n] = getpx(i.lat, i.long).x;
+   cord_y[n] = getpx(i.lat, i.long).y;
     
-     if ((tracce_mix_attive < max_tracce_mix) && (tempo_traccia > durata_traccia * 0.1)) {
-             
-   //----------------randomizzatore scelta tracce---------------// 
-       
-       indice_traccia = int(random(numero_luoghi));
-       
-       if (check_box[indice_traccia] == true && play_suono[indice_traccia] == false) {
-         
-         play_suono[indice_traccia] = true;
-         tracce_mix_attive++;
-      
-       //ultima_traccia = nuova_traccia;
-         //indice_traccia4 = indice_traccia3
-         //indice_traccia3 = indice_traccia2
-         //indice_traccia2 = indice_traccia1
-         nuova_traccia = suoni[indice_traccia];
-         tempo_traccia = nuova_traccia.currentTime;
-         durata_traccia = nuova_traccia.duration;
-         
-       }
-               
-     }
-  } //fine if PicentiniMix attivo
-  
-  else {
-     tracce_mix_attive = 0;
-     tempo_traccia = 1;
-     durata_traccia = 0;
-  }
-   
  if (suoni[n].isPlaying() == true) {
   
   alfa[n] = 255;
@@ -309,8 +278,6 @@ if (check_box[n] == true) {
   
  fill(rosso[n], verde[n], blu[n], alfa[n])
  
- cord_x[n] = getpx(i.lat, i.long).x;
- cord_y[n] = getpx(i.lat, i.long).y;
     
  ellipse(cord_x[n], cord_y[n], d_cerchio[n], d_cerchio[n]);
   
@@ -356,18 +323,43 @@ if (check_box[n] == true) {
  
   } //fine mouse su cerchio 
   
-  if (play_suono[n] == true && play_suono_pre[n] == false) {
-     suoni[n].play();
-  }
-  else if (play_suono[n] == false && play_suono_pre[n] == true) {
-     suoni[n].stop();
-  }
-  
-  play_suono_pre[n] = play_suono[n];
-  
  } //fine if check_box
 
 } //fine FOR
+    
+  
+//-----------gestione Picentinimix---------//
+ 
+  if (box[4] == true) {
+       
+   if ((tracce_mix_attive <= max_tracce_mix) && (millis() - tempo) > tempo_mix) { 
+     
+      tempo = millis();      
+     
+//-----------------------randomizzatore scelta tracce---------------------// 
+       
+       indice_traccia = int(random(numero_luoghi + 1)); 
+     
+//-----------------------randomizzatore tempi_mix---------------------// 
+      
+      tempo_mix = int(random(15, 80)) * 1000;
+       
+         
+     if (check_box[indice_traccia] == true && play_suono[indice_traccia] == false) {
+         
+         play_suono[indice_traccia] = true;
+ 
+         nuova_traccia = suoni[indice_traccia];
+             
+       }
+                    
+     }
+  } //fine if PicentiniMix attivo
+  
+  else {
+     tracce_mix_attive = 0;
+
+  }
  
 //---------gestione grafica check box------//
   
@@ -402,8 +394,36 @@ if (check_box[n] == true) {
 
 //-----------utility-----------//
   
+  for (const i of luoghi) {
+    
+  let n = luoghi.indexOf(i) 
+        
+     if (play_suono[n] == true && play_suono_pre[n] == false) {
+     suoni[n].play();
+       
+       if (box[4] == true) {
+       tracce_mix_attive++;
+    }
+                print('n° trk attive ' + tracce_mix_attive);
+  }
+  else if (play_suono[n] == false && play_suono_pre[n] == true) {
+     suoni[n].stop();
+    
+    
+    if (box[4] == true) {
+       tracce_mix_attive--;
+    }
+             print('n° trk attive ' + tracce_mix_attive);
+  }
+ 
+    play_suono_pre[n] = play_suono[n];
+    play_suono[n] = suoni[n].isPlaying();
+  
+  }
+  
   trigger_pre = trigger;
   trigger_box_pre = trigger_box;
+  
 
 } //fine draw
  
