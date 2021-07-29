@@ -1,4 +1,4 @@
 # ArchivioSonoro
-Archivio sonoro Monti Picentini
+Archivio sonoro interattivo Monti Picentini
 
  - work in progress
