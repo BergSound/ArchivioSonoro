@@ -199,7 +199,7 @@ function setup() {
   canvas = createCanvas(displayWidth, displayHeight * 0.75);
   
   h_rett = height * 0.18;
-  h_font = h_rett * 0.15;
+  h_font = h_rett * 0.1;
   
   larghezza = width;
   box_x[4] = larghezza - 70;
@@ -342,7 +342,7 @@ if (check_box[n] == true) {
      
 //-----------------------randomizzatore tempi_mix---------------------// 
       
-      tempo_mix = int(random(15, 80)) * 1000;
+      tempo_mix = int(random(5, 40)) * 1000;
        
          
      if (check_box[indice_traccia] == true && play_suono[indice_traccia] == false) {
