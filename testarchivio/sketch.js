@@ -180,7 +180,7 @@ const options = {
   lat: 40.777,
   lng: 15.006,
   zoom: 10,
-  style: "http://{s}.tile.osm.org/{z}/{x}/{y}.png"
+  style: "https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=376fcc0bed384422babc4c6085f83930"
 }
 
 function preload() {
@@ -196,13 +196,13 @@ function preload() {
 
 function setup() {
  
-  canvas = createCanvas(displayWidth,displayHeight * 0.7);
+  canvas = createCanvas(displayWidth, displayHeight * 0.75);
   
   h_rett = height * 0.18;
   h_font = h_rett * 0.15;
   
   larghezza = width;
-  box_x[4] = larghezza - 75;
+  box_x[4] = larghezza - 70;
   
   myMap = mappa.tileMap(options)
   myMap.overlay(canvas)
