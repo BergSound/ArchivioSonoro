@@ -206,6 +206,14 @@ function setup() {
   
   myMap = mappa.tileMap(options)
   myMap.overlay(canvas)
+	
+for (const i of luoghi) {
+        
+  let n = luoghi.indexOf(i)
+        
+     suoni[n].playMode('restart');
+  
+     }
    
 } //fine setup
 
@@ -419,10 +427,9 @@ if (check_box[n] == true) {
     }     
   }
      
-    let dummy = play_suono[n];
-    play_suono_pre[n] = dummy;
+    play_suono_pre[n] = play_suono[n];
     play_suono[n] = suoni[n].isPlaying();
-  
+	  
   }
   
   trigger_pre = trigger;
