@@ -265,7 +265,7 @@ if (check_box[n] == true) {
    cord_x[n] = getpx(i.lat, i.long).x;
    cord_y[n] = getpx(i.lat, i.long).y;
     
- if (suoni[n].isPlaying() == true) {
+ if (play_suono[n] == true) {
   
   alfa[n] = 255;
   d_cerchio[n] = 20 + 12;// * sin (PI *  ); 
@@ -408,8 +408,7 @@ if (check_box[n] == true) {
        
        if (box[4] == true) {
        tracce_mix_attive++;
-    }
-                print('n° trk attive ' + tracce_mix_attive);
+    }      
   }
   else if (play_suono[n] == false && play_suono_pre[n] == true) {
      suoni[n].stop();
@@ -417,11 +416,11 @@ if (check_box[n] == true) {
     
     if (box[4] == true) {
        tracce_mix_attive--;
-    }
-             print('n° trk attive ' + tracce_mix_attive);
+    }     
   }
- 
-    play_suono_pre[n] = play_suono[n];
+     
+    let dummy = play_suono[n];
+    play_suono_pre[n] = dummy;
     play_suono[n] = suoni[n].isPlaying();
   
   }
