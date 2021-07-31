@@ -199,7 +199,7 @@ function setup() {
   canvas = createCanvas(displayWidth, displayHeight * 0.75);
   
   h_rett = height * 0.18;
-  h_font = h_rett * 0.1;
+  h_font = h_rett * 0.13;
   
   larghezza = width;
   box_x[4] = larghezza - 70;
@@ -331,6 +331,11 @@ if (check_box[n] == true) {
 //-----------gestione Picentinimix---------//
  
   if (box[4] == true) {
+    
+    if (tracce_mix_attive == 0) {
+       tempo = 0;
+       tempo_mix = 0;
+    }
        
    if ((tracce_mix_attive <= max_tracce_mix) && (millis() - tempo) > tempo_mix) { 
      
