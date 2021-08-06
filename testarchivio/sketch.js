@@ -88,7 +88,7 @@ class luogo {
 
 //---constructor LUOGO (lat, long, nome_file, luogo, giorno/mese/anno, tecnica_microfonica, annotazioni, colore, inquinamento)
 
-const monte_mai = new luogo(40.790808, 14.874866, 'vento_monte_mai_2_07_2018_16_25.wav', 'Vetta Monte Mai', '02.07.2018 16:25', 'MS', 'Vento da sud', 'vetta');
+/*const monte_mai = new luogo(40.790808, 14.874866, 'vento_monte_mai_2_07_2018_16_25.wav', 'Vetta Monte Mai', '02.07.2018 16:25', 'MS', 'Vento da sud', 'vetta');
 
 const grotta_scalandrone = new luogo(40.767823, 14.993144, 'grotta_scalandone_08_06_17.wav', 'Grotta dello Scalandrone', '08.06.2017 15:30', 'XY 120°', 'Cascata dentro la grotta, registrata dalla spiaggetta', 'acqua');
 
@@ -115,7 +115,35 @@ const sorgente_sabato = new luogo(40.787036, 14.98379, 'Fiume_Lontano_FiumeSabat
 const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21wav.wav', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
 
 const nevicata = new luogo(40.796107, 14.998455, 'nevicata_13_01_19_15_58.wav', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
+*/
 
+const monte_mai = new luogo(40.790808, 14.874866, 'vento_monte_mai_2_07_2018_16_25.mp3', 'Vetta Monte Mai', '02.07.2018 16:25', 'MS', 'Vento da sud', 'vetta');
+
+const grotta_scalandrone = new luogo(40.767823, 14.993144, 'grotta_scalandone_08_06_17.mp3', 'Grotta dello Scalandrone', '08.06.2017 15:30', 'XY 120°', 'Cascata dentro la grotta, registrata dalla spiaggetta', 'acqua');
+
+const pendici_accellica = new luogo(40.782567, 14.983494, 'AccellicaNord_15_08_16_12.38.mp3', 'Pendici Monte Accellica - versante Nord', '15.08.2016 12:38', 'XY 90°', 'Suoni di bosco sul sentiero per la vetta nord', 'bosco');
+
+const pendici_san_michele = new luogo(40.80082, 14.81299, 'pizzoSanMichele_3_09_16_14_02.mp3', 'Pendici Pizzo San Michele', '03.09.2016 14:05', 'XY 120°', 'Suoni di bosco sul sentiero per il Pizzo San Michele', 'bosco');
+
+const pizzo_san_michele = new luogo(40.799159, 14.844128, 'vento_pizzoSanMichele.mp3', 'Pizzo San Michele', '03.09.2016 16:05', 'XY 120°', 'Vento e grilli di fronte al santuario', 'vetta');
+
+const lago_laceno = new luogo(40.806956, 15.096356, 'lago_laceno_alba_27_06_19_6_15.mp3', 'Lago Laceno', '27.06.2019 6:00', 'BINAURALE', 'Alba sul lago, con rapaci e mucche', 'bosco');
+
+const castel_franci = new luogo(40.915295, 15.039577, 'castel_franci_9_05_21_10_22.mp3', 'Fiume Calore - Castel Franci', '05.09.2021 10:00', 'MS', 'Piccola diga sul fiume Calore, tratto avvelenato da scarico abusivo', 'acqua');
+
+const raio_tufara = new luogo(40.8341614, 15.0089888, 'raio_della_tufara_12_10_2018.mp3', 'Raio della Tufara - Affluente dello Scorzella', '12.10.2018 10:00', 'XY 90°', 'Ruscello che cade in piscine naturali da tuffi a cufaniello', 'acqua');
+
+const valli_50 = new luogo(40.806648, 14.976238, 'uccelli_terminio_10_06_19_16_35.mp3', 'Terminio - Valli Cinquanta', '10.06.2019 16:35', 'BINAURALE', 'piccola valle con concerto di uccelli', 'bosco'); 
+
+const lago_conza_rane = new luogo(40.881527, 15.29451, 'conza_rane 8_09_21_11_35.mp3', 'Lago di Conza', '08.09.2021 11:35', 'XY 90°', 'Rane sul lago, con suoni di traffico della statale', 'altro');
+
+const lago_conza_alba = new luogo(40.882951, 15.319318, 'alba_conza.mp3', 'Lago di Conza', '08.09.2021 5:35', 'XY 90°', 'Alba sul lago', 'altro');
+
+const sorgente_sabato = new luogo(40.787036, 14.98379, 'Fiume_Lontano_FiumeSabato_agosto_2017.mp3', 'Sorgente Fiume Sabato', 'agosto 2017', 'XY 90°', 'Fiume nel bosco', 'acqua');
+
+const vallone_matruonolo = new luogo(40.832759, 14.916878, 'vallone_matruonolo_cascata_2_04_21wav.mp3', 'Vallone Matruonolo', '02.04.2021 12:10', 'XY 120°', 'Due piccole cascate di un affluente del Sabato', 'acqua');
+
+const nevicata = new luogo(40.796107, 14.998455, 'nevicata_13_01_19_15_58.mp3', 'Terminio', '13.01.2019 15:58', 'XY 120°', 'Nevicata di media intensità in una valletta del terminio', 'altro');
 
 let luoghi = [monte_mai, grotta_scalandrone, vallone_matruonolo, 
 	      pendici_accellica, pendici_san_michele, pizzo_san_michele, 
@@ -185,7 +213,7 @@ const options = {
 
 function preload() {
   
-  soundFormats('wav');
+  soundFormats('mp3');
 	
   for(const i of nomi_suoni) {
 		
@@ -196,7 +224,8 @@ function preload() {
 
 function setup() {
  
-  canvas = createCanvas(displayWidth, displayHeight * 0.75);
+  //canvas = createCanvas(displayWidth, displayHeight * 0.75); 
+  canvas = createCanvas(windowWidth, windowHeight);
   
   h_rett = height * 0.18;
   h_font = h_rett * 0.13;
