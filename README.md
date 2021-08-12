@@ -27,6 +27,8 @@ La neve è presente in abbondanza in inverno su vaste aree picentine al di sopra
 
 codice p5js dello sketch di Pioggia
 
+<iframe src="https://preview.p5js.org/Berg_/embed/qtatLFUXB"></iframe>
+
 
 ## La flora e la fauna
 La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
