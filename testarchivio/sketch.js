@@ -249,7 +249,7 @@ function setup() {
   if (larghezza_schermo >= altezza_schermo) { //schermo orizzontale tipo PC
     
      h_rett = height * 0.18;
-     h_font = h_rett * 0.13;
+     h_font = h_rett * 0.12;
     
      box_x[4] = width - 75;
      box_y[4] = 22;
@@ -491,7 +491,7 @@ if (check_box[n] == true) {
      
 //-----------------------randomizzatore tempi_mix---------------------// 
        
-       tempo_mix = int(random(1, 3)) * 1000;
+       tempo_mix = int(random(10, 40)) * 1000;
        //tempo_mix = int(random(15, 80)) * 1000;
        
          
