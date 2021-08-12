@@ -1,5 +1,4 @@
-# ArchivioSonoro
-Pagina principale dell'archivio sonoro interattivo Monti Picentini
+Pagina principale dell'archivio sonoro interattivo dei Monti Picentini
 
  - work in progress
 
