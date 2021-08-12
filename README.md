@@ -2,6 +2,8 @@ Pagina principale dell'archivio sonoro interattivo dei Monti Picentini
 
  - work in progress
 
+Visita subito l'[archivio sonoro interattivo](https://bergsound.github.io/ArchivioSonoro/testarchivio/) o scopri di più sui Monti Picentini
+
 I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Spostati verso il Tirreno, si trovano tra i monti Lattari, i monti del Partenio, l'altopiano Irpino e la valle del fiume Sele. Il gruppo è costituito da rocce calcaree e dolomitiche, differenziandosi dalla zona circostante, con terreni prevalentemente argillosi.
 
 Una depressione centrale, che mette in comunicazione la valle del fiume Calore Irpino e quella del fiume Tusciano, divide il gruppo in due settori geologicamente e morfologicamente differenti: sul lato occidentale il gruppo montuoso per largo tratto è costituito prevalentemente da dolomie, e si presenta più profondamente smembrato, mentre la parte orientale è composta in genere da calcari ed assume una forma più compatta e meno aspra, con diverse vette che si innalzano da una piattaforma a circa 1000 metri di altitudine. Essendo le rocce calcaree di gran lunga dominanti, è presente il fenomeno del carsismo, con numerosi bacini, chiusi o parzialmente sbrecciati, di varia estensione e posti a diverse altezze. Da questi bacini si originano a valle diverse sorgenti.
@@ -46,10 +48,7 @@ L'inquinamento dei fiumi
 ### Radici
 
 codice p5js dello sketch di Radici
-<h1>
-<h1>
-<h1>
- <h1>
+
 
 Visita l'[archivio sonoro interattivo](https://bergsound.github.io/ArchivioSonoro/testarchivio/)
 
