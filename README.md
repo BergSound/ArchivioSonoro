@@ -25,7 +25,7 @@ La neve è presente in abbondanza in inverno su vaste aree picentine al di sopra
 
 ### Pioggia
 
-<iframe src="https://preview.p5js.org/Berg_/present/qtatLFUXB" style = "height: 25%; width: 100%; border: none"></iframe>
+<iframe src="https://preview.p5js.org/Berg_/present/qtatLFUXB" style = "height: 30%; width: 100%; border: none; position: absolute"></iframe>
 
 
 ## La flora e la fauna
