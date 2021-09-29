@@ -1,4 +1,4 @@
-#La fauna
+# La fauna
 
 (aggiungere sketch pelle di salamandra)
 
@@ -9,7 +9,7 @@ Dei fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900m, scende
 I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagnoe  conservano un'area del pino nero.
 
 
-Continua la lettura nella sezione [Uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
+Prosegui la lettura nella sezione [Uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
 
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
 
