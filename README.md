@@ -29,7 +29,7 @@ Archivio cominciato nel 2016 con ...
 
 ## Derivazioni Artistiche
 - [Installazioni multimediali](https://bergsound.github.io/MontiPicentiniDigitali/InstallazioniSonore/)
-- [Live electronics](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
+- [PicentiniMix](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
 
 
 Informazioni sull'[autore](https://bergsound.github.io/MontiPicentiniDigitali/About/) del progetto.
