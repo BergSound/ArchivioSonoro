@@ -16,4 +16,6 @@ La neve è presente in abbondanza in inverno su vaste aree picentine al di sopra
 
 
 Prosegui la lettura nella sezione [Flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora)
+
+
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali) 
