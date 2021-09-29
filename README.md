@@ -22,7 +22,7 @@ Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale
 ## L'archivio sonoro
 Archivio cominciato nel 2016 con ...
 
-[L'archivio sonoro](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
+- Visita [l'archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) dei Monti Picentini
 
 
 
