@@ -41,7 +41,7 @@ Archivio cominciato nel 2016 con ...
 
 
 
-[Informazioni](https://bergsound.github.io/MontiPicentiniDigitali/About/) sull'autore del progetto.
+[Informazioni](https://bergsound.github.io/MontiPicentiniDigitali/About/) sull'autore di MontiPicentiniDigitali.
 
 
 
