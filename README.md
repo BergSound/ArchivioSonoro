@@ -12,7 +12,7 @@ Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale
 
 ## Informazioni naturalistiche sui Monti Picentini
 
-- [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vette/)
+- [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vetta/)
 - [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
 - [La flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora/)
 - [La fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
