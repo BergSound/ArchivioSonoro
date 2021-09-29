@@ -1,4 +1,4 @@
-# ABOUT
+# About
 
 (Aggiunngere sketch chitarra generativa)
 
