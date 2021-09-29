@@ -1,4 +1,4 @@
-### Le vette
+# Le vette
 
 (aggiungere sketch nuvole)
 
@@ -7,6 +7,6 @@ Le vette più elevate sono quelle del monte Cervialto (1.809 metri), del monte T
 
 
 
-Prosegui la lettura nella sezione [Acqua][https://bergsound.github.io/MontiPicentiniDigitali/Acqua]
+Prosegui la lettura nella sezione [Acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua)
 
-Torna all'[Home][https://bergsound.github.io/MontiPicentiniDigitali] 
+Torna all'[Home](https://bergsound.github.io/MontiPicentiniDigitali) 
