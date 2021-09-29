@@ -16,6 +16,7 @@ Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale
 - [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
 - [La flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora/)
 - [La fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
+- [L'uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
 
 
 ## L'archivio sonoro
