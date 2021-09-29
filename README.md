@@ -27,12 +27,21 @@ Archivio cominciato nel 2016 con ...
 
 
 
-## Derivazioni Artistiche
+## Progetti artistici
 - [Installazioni multimediali](https://bergsound.github.io/MontiPicentiniDigitali/InstallazioniSonore/)
 - [PicentiniMix](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
 
+## Altri progetti
+- sentieri
+- foto/video
+- racconti
+- altro
 
-Informazioni sull'[autore](https://bergsound.github.io/MontiPicentiniDigitali/About/) del progetto.
+
+
+
+
+[Informazioni](https://bergsound.github.io/MontiPicentiniDigitali/About/) sull'autore di MontiPicentiniDigitali.
 
 
 
