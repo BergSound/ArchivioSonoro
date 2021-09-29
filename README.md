@@ -1,55 +1,38 @@
-Pagina principale dell'archivio sonoro interattivo dei Monti Picentini
+(aggiungere sketch montagne di perlin)
 
  - work in progress
 
-Visita subito l'[archivio sonoro interattivo](https://bergsound.github.io/ArchivioSonoro/testarchivio/) o scopri di più sui Monti Picentini
+Monti Picentini Digitali è un progetto artistico nato intorno alla personale passione per la montagna e la pratica del field recording. 
 
-I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Spostati verso il Tirreno, si trovano tra i monti Lattari, i monti del Partenio, l'altopiano Irpino e la valle del fiume Sele. Il gruppo è costituito da rocce calcaree e dolomitiche, differenziandosi dalla zona circostante, con terreni prevalentemente argillosi.
+La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo] (https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali - cominciata nel 2016 - all’interno del Parco Regionale dei Monti Picentini. 
 
-Una depressione centrale, che mette in comunicazione la valle del fiume Calore Irpino e quella del fiume Tusciano, divide il gruppo in due settori geologicamente e morfologicamente differenti: sul lato occidentale il gruppo montuoso per largo tratto è costituito prevalentemente da dolomie, e si presenta più profondamente smembrato, mentre la parte orientale è composta in genere da calcari ed assume una forma più compatta e meno aspra, con diverse vette che si innalzano da una piattaforma a circa 1000 metri di altitudine. Essendo le rocce calcaree di gran lunga dominanti, è presente il fenomeno del carsismo, con numerosi bacini, chiusi o parzialmente sbrecciati, di varia estensione e posti a diverse altezze. Da questi bacini si originano a valle diverse sorgenti.
+Si è voluto creare uno spazio all’interno del quale riescano convivere non solo suoni concreti e arte digitale ma anche informazioni e racconti, tutte idee nate dalle suggestioni che solo un ecosistema così vasto e complesso riesce a indurre. 
 
-## Le vette
-Le vette più elevate sono quelle del monte Cervialto (1.809 metri), del monte Terminio (1.806 metri) nella parte occidentale e del monte Polveracchio (1.790 metri) nella parte orientale. Degne di menzione sono anche le vette dell'Accellica (1.660 metri), del Mai (1.607 metri) e di Pizzo San Michele (1.567 metri)
+Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale diario sonoro di escursioni montane: la speranza è che attraverso la potenza narrativa e immaginifica del suono i visitatori del progetto riescano ad apprezzare, rispettare e a decidere di vivere in prima persona un patrimonio naturale così pregno di ricchezza. 
 
-### Nuvole
+## Informazioni naturalistiche sui Monti Picentini
 
-codice p5js dello sketch di nuvole
-
-
-## L'acqua
-Il gruppo montuoso è ricco di acque e sorgenti, alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose che caratterizzano l'area montuosa. Le riserve d'acqua di queste montagne alimentano intere province dalla Puglia alla Campania. I Picentini sono considerati la riserva d'acqua più grande del Sud e la terza riserva d'acqua in Europa. Alcuni corsi d'acqua che nascono nel gruppo montuoso si dirigono verso il mar Tirreno, direttamente (Sele, Tusciano, Picentino), o come affluenti (il Calore Irpino e il suo tributario Sabato, le cui acque confluiscono nel Volturno) il Tenza che affluisce nel Sele, mentre l'Ofanto sfocia nel mar Adriatico.
-
-La regione gode di un'elevata piovosità. Il settore meridionale e occidentale, dal Pizzo San Michele a Olevano sul Tusciano, passando per l'area del Terminio è esposto ai venti umidi provenienti dal mar Tirreno ed ha medie annue tra le più elevate in regione e anche intorno ai 2000mm (1.900 mm annui per Olevano sul Tusciano, 1.842 mm annui per Giffoni Valle Piana e circa 2000mm Solofra) mentre la zona rivolta verso l'interno, verso est, supera di poco i 1.000 mm annui (1.045 mm per Nusco e 1.009 mm per Lioni).
-
-La neve è presente in abbondanza in inverno su vaste aree picentine al di sopra dei 1000m, ma in alcuni settori, ben esposti alle fredde correnti settentrionali, la neve cade con una certa frequenza e abbondanza anche a quote basse, soprattutto nella zona fra i monti Cervialto e Polveracchio, il Laceno e le aree montuose Terminio-monti Mai.
-
-### Pioggia
-
-<iframe src="https://preview.p5js.org/Berg_/present/qtatLFUXB" style = "height: 30%; width: 100%; border: none;"></iframe>
+- [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vette/)
+- [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
+- [La flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora/)
+- [La fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
 
 
-## La flora e la fauna
-La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
+## L'archivio sonoro
+Archivio cominciato nel 2016 con ...
 
-Dei fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900m, scendendo a quote più basse nelle zone più fredde del comprensorio (area del Laceno, valli del Terminio e dei monti Mai).
-
-I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagnoe  conservano un'area del pino nero.
-
-### Alberi
-
-codice p5js dello sketch di Alberi
+[L'archivio sonoro](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
 
 
-## L'uomo
-Gli insediamenti
-Le infrastrutture (captazioni...)
-L'inquinamento dei fiumi
-
-### Radici
-
-codice p5js dello sketch di Radici
 
 
-Visita l'[archivio sonoro interattivo](https://bergsound.github.io/ArchivioSonoro/testarchivio/)
+## Derivazioni Artistiche
+- [Installazioni multimediali](https://bergsound.github.io/MontiPicentiniDigitali/InstallazioniSonore/)
+- [Live electronics](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
+
+
+Informazioni sull'[autore](https://bergsound.github.io/MontiPicentiniDigitali/About/) del progetto.
+
+
 
 
