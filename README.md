@@ -10,7 +10,12 @@ Si è voluto creare uno spazio all’interno del quale riescano convivere non so
 
 Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale diario sonoro di escursioni montane: la speranza è che attraverso la potenza narrativa e immaginifica del suono i visitatori del progetto riescano ad apprezzare, rispettare e a decidere di vivere in prima persona un patrimonio naturale così pregno di ricchezza. 
 
-## Informazioni naturalistiche sui Monti Picentini
+## I Monti Picentini
+
+I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Spostati verso il Tirreno, si trovano tra i monti Lattari, i monti del Partenio, l'altopiano Irpino e la valle del fiume Sele. Il gruppo è costituito da rocce calcaree e dolomitiche, differenziandosi dalla zona circostante, con terreni prevalentemente argillosi.
+
+Visita la galleria che ospita informazioni naturalistiche sui Picentini e pezzi(?) di digital art.
+
 
 - [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vetta/)
 - [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
@@ -20,6 +25,7 @@ Lo scopo di Monti Picentini Digitali vorrebbe esulare dall’essere un personale
 
 
 ## L'archivio sonoro
+
 Archivio cominciato nel 2016 con ...
 
 - Visita [l'archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) dei Monti Picentini
@@ -27,7 +33,8 @@ Archivio cominciato nel 2016 con ...
 
 
 
-## Progetti artistici
+## Progetti artistici dal vivo
+
 - [Installazioni multimediali](https://bergsound.github.io/MontiPicentiniDigitali/InstallazioniSonore/)
 - [PicentiniMix](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
 
