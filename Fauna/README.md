@@ -9,7 +9,7 @@ Dei fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900m, scende
 I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagnoe  conservano un'area del pino nero.
 
 
-Prosegui la lettura nella sezione [Uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
+Torna alla sezione [Flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora/) / Prosegui la lettura nella sezione [Uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
 
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
 
