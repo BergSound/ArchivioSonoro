@@ -13,7 +13,7 @@ I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagn
 
 
 
-Torna alla sezione [Flora](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/) / Prosegui la lettura nella sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
+Torna alla sezione [Acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/) / Prosegui la lettura nella sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
 
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
 
