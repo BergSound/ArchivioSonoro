@@ -4,18 +4,15 @@
 
 MontiPicentiniDigitali è un progetto artistico nato intorno alla personale passione per la montagna e la pratica del field recording. 
 
-La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali - cominciata nel 2016 - all’interno del Parco Regionale dei Monti Picentini. 
+La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali catturate all’interno del Parco Regionale dei Monti Picentini. Da questo nucleo è nato uno spazio in cui convivono suoni concreti e arte digitale.
 
-Si è voluto creare uno spazio all’interno del quale riescano convivere non solo suoni concreti e arte digitale ma anche informazioni e racconti, tutte idee nate dalle suggestioni che solo un ecosistema così vasto e complesso riesce a indurre. 
-
-Lo scopo di MontiPicentiniDigitali vorrebbe esulare dall’essere un personale diario sonoro di escursioni montane: la speranza è che attraverso la potenza narrativa e immaginifica del suono i visitatori del progetto riescano ad apprezzare, rispettare e a decidere di vivere in prima persona un patrimonio naturale così pregno di ricchezza. 
+MontiPicentiniDigitali non è un personale diario sonoro di escursioni montane: la speranza è che attraverso la potenza narrativa e immaginifica del suono i visitatori del progetto riescano ad apprezzare, rispettare e decidere di vivere in prima persona un patrimonio naturale così prezioso. 
 
 ## I Monti Picentini
 
-I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Spostati verso il Tirreno, si trovano tra i monti Lattari, i monti del Partenio, l'altopiano Irpino e la valle del fiume Sele. Il gruppo è costituito da rocce calcaree e dolomitiche, differenziandosi dalla zona circostante, con terreni prevalentemente argillosi.
+I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Si trovano tra i Monti Lattari, il Partenio, l'altopiano Irpino e la valle del fiume Sele.
 
-Visita la galleria che ospita informazioni naturalistiche sui Picentini e pezzi(?) di digital art.
-
+Visita la galleria che ospita informazioni naturalistiche sui Picentini e suggestioni di digital art.
 
 - [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vetta/)
 - [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
