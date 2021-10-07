@@ -2,7 +2,7 @@
 
 <iframe src="https://preview.p5js.org/Berg_/embed/lbQHsKvND" style = "height: 100%; width: 100%; border: none;"></iframe>
 
--Frammento digitale _Pioggia_
+- Frammento digitale _Pioggia_
 
 Il gruppo montuoso è ricco di acque e sorgenti alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose. 
 
