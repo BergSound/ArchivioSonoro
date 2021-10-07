@@ -2,11 +2,13 @@
 
 <iframe src = "https://preview.p5js.org/Berg_/embed/-YrDow7p_" style = "height: 100%; width: 100%; border: none;"></iframe>
 
+- Frammento digitale _Radici_
+
 La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
 
-Dei fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900m, scendendo a quote più basse nelle zone più fredde del comprensorio (area del Laceno, valli del Terminio e dei monti Mai).
+Fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900m e scendendo a quote più basse nelle zone più fredde del comprensorio (area del Laceno, valli del Terminio e dei monti Mai).
 
-I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagnoe  conservano un'area del pino nero.
+I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagno e conservano un raro areale di pino nero.
 
 
 
