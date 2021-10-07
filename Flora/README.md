@@ -1,6 +1,6 @@
 # La flora
 
-(codice p5js dello sketch di Alberi)
+<iframe src = "https://preview.p5js.org/Berg_/embed/-YrDow7p_" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
 
