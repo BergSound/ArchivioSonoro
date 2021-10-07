@@ -2,11 +2,19 @@
 
 <iframe src="https://preview.p5js.org/Berg_/embed/lbQHsKvND" style = "height: 100%; width: 100%; border: none;"></iframe>
 
-Il gruppo montuoso è ricco di acque e sorgenti, alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose che caratterizzano l'area montuosa. Le riserve d'acqua di queste montagne alimentano intere province dalla Puglia alla Campania. I Picentini sono considerati la riserva d'acqua più grande del Sud e la terza riserva d'acqua in Europa. Alcuni corsi d'acqua che nascono nel gruppo montuoso si dirigono verso il mar Tirreno, direttamente (Sele, Tusciano, Picentino), o come affluenti (il Calore Irpino e il suo tributario Sabato, le cui acque confluiscono nel Volturno) il Tenza che affluisce nel Sele, mentre l'Ofanto sfocia nel mar Adriatico.
+-Frammento digitale _Pioggia_
 
-La regione gode di un'elevata piovosità. Il settore meridionale e occidentale, dal Pizzo San Michele a Olevano sul Tusciano, passando per l'area del Terminio è esposto ai venti umidi provenienti dal mar Tirreno ed ha medie annue tra le più elevate in regione e anche intorno ai 2000mm (1.900 mm annui per Olevano sul Tusciano, 1.842 mm annui per Giffoni Valle Piana e circa 2000mm Solofra) mentre la zona rivolta verso l'interno, verso est, supera di poco i 1.000 mm annui (1.045 mm per Nusco e 1.009 mm per Lioni).
+Il gruppo montuoso è ricco di acque e sorgenti alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose. 
 
-La neve è presente in abbondanza in inverno su vaste aree picentine al di sopra dei 1000m, ma in alcuni settori, ben esposti alle fredde correnti settentrionali, la neve cade con una certa frequenza e abbondanza anche a quote basse, soprattutto nella zona fra i monti Cervialto e Polveracchio, il Laceno e le aree montuose Terminio-monti Mai.
+I Picentini sono considerati la riserva d'acqua più grande del sud Italia e la terza riserva d'acqua in Europa. L'acqua di queste montagne alimenta la rete idrica di numerose province dalla Campania alla Puglia.
+
+La maggior parte dei corsi d'acqua che nascono nel gruppo montuoso si dirigono verso il mar Tirreno e di questi sono degni di menzione il Sele, il Tusciano e il Picentino. I principali affluenti di fiumi maggiori sono il Calore Irpino e il suo tributario Sabato, entrambi confluiscono nel Volturno. 
+Dei numerosi corsi d'acqua dei Picentini, solo l'Ofanto sfocia nel mar Adriatico.
+
+L'area gode di un'elevata piovosità. I settori meridionali e occidentali, da Pizzo San Michele a Olevano sul Tusciano, sono esposti ai venti umidi provenienti dal mar Tirreno ed hanno medie annue tra le più elevate della regione.
+
+Nel periodo invernale la neve è presente già al di sopra dei 1000 metri, ma in alcuni settori esposti a settentrione, la neve cade con una certa frequenza e abbondanza anche a quote basse, soprattutto nella zona fra i monti Cervialto e Polveracchio, il Laceno e le aree montuose Terminio-monti Mai. 
+
 
 
 
