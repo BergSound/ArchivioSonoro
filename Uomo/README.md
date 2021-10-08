@@ -18,7 +18,7 @@ L'inquinamento
 
 
 
-Torna alla sezione [Fauna]((https://bergsound.github.io/MontiPicentiniDigitali/Fauna)
+Torna alla sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
 
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
 
