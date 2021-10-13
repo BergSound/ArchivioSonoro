@@ -5,7 +5,7 @@
 
 - Frammento digitale _Chitarra_
 
-Sono Giuseppe Bergamino e sono blablabla
+Sono Giuseppe Bergamino e sono un musicista elettronico diplomato al Conservatorio di Avellino Domenico Cimarosa. 
 
 
 
