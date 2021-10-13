@@ -4,7 +4,11 @@
 
 - Frammento digitale _Pelle di Salamandra_
 
-La fauna è bella perchè ci sono le salamandre.
+Tra i mammiferi che caratterizzano i Monti sono presenti il lupo e il gatto selvatico, con segnalazioni di lontre e daini.
+
+Tra gli anfibi sono degni di menzione il tritone italico e la salamandra pezzata.
+
+Tra i volatili è da menzionare la coturnice (Alectoris graeca orlandoi) e numerose specie di rapaci.
 
 
 Torna alla sezione [Flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora/) / Prosegui la lettura nella sezione [Uomo](https://bergsound.github.io/MontiPicentiniDigitali/Uomo/)
