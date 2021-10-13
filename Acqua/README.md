@@ -13,7 +13,7 @@ Dei numerosi corsi d'acqua dei Picentini, solo l'Ofanto sfocia nel mar Adriatico
 
 L'area gode di un'elevata piovosità. I settori meridionali e occidentali, da Pizzo San Michele a Olevano sul Tusciano, sono esposti ai venti umidi provenienti dal mar Tirreno ed hanno medie annue tra le più elevate della regione.
 
-Nel periodo invernale la neve è presente già al di sopra dei 1000 metri, ma in alcuni settori esposti a settentrione, la neve cade con una certa frequenza e abbondanza anche a quote basse, soprattutto nella zona fra i monti Cervialto e Polveracchio, il Laceno e le aree montuose Terminio-monti Mai. 
+Nel periodo invernale la neve è presente già al di sopra dei 1000 metri, ma in alcuni settori esposti a settentrione, la neve cade con una certa frequenza e abbondanza anche a quote basse, soprattutto nella zona fra i monti Cervialto e Polveracchio, il Laceno e le aree montuose Terminio - Mai. 
 
 
 
