@@ -5,13 +5,11 @@
 - Frammento digitale _Origami_
 
 
-La transumanza
+Il parco regionale Monti Picentini è un'area naturale protetta della regione Campania istituita nel 1995 e con sede a Nusco. Del parco fanno parte l'oasi naturale del Monte Polveracchio, l'oasi naturale Valle della Caccia e l'altopiano protetto del Laceno.
 
-Gli insediamenti
+All'interno del parco è molto presente l'uomo e nell'area ci sono ben 30 comuni tra provincia di Avellino e Salerno. 
 
-Le infrastrutture (acquedotti...)
 
-L'inquinamento
 
 
 
