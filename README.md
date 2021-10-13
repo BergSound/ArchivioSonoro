@@ -10,9 +10,9 @@ MontiPicentiniDigitali non è un personale diario sonoro di escursioni montane: 
 
 ## I Monti Picentini
 
-I Monti Picentini sono un gruppo montuoso dell'Appennino campano. Si trovano tra i Monti Lattari, il Partenio, l'altopiano Irpino e la valle del fiume Sele.
+Monti Picentini sono un gruppo montuoso dell'Appennino campano e ricoprono un’area calcareo-dolomitica di circa 62.000 ettari tra le provincie di Avellino e Salerno. Sono delimitati a nord dal Partenio, a ovest dai Monti Lattari, a est dall’Alta Irpinia e a sud dalla valle del fiume Sele.
 
-Visita la galleria che ospita informazioni naturalistiche sui Picentini e suggestioni di digital art.
+Visita la galleria che ospita informazioni naturalistiche sui Picentini e frammenti di digital art.
 
 - [Le vette](https://bergsound.github.io/MontiPicentiniDigitali/Vetta/)
 - [L'acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/)
@@ -23,7 +23,9 @@ Visita la galleria che ospita informazioni naturalistiche sui Picentini e sugges
 
 ## L'archivio sonoro
 
-Archivio cominciato nel 2016 con ...
+Le registrazioni presenti nell'archivio, acquisite per la prima volta nel 2015, sono nate con la necessità di afferrare le peculiarità sonore di un dato ambiente in un dato tempo. L'iniziale curiosità era nello sperimentare un ascolto di questi materiali in un ambiente non naturale e attraverso il mezzo digitale, per capire quanto ci si potessere reimmergere fedelmente nel luogo della registrazione. Dopo anni di ascolti si ritiene personalmente che il suono abbia meno capacità descrittive puntuali rispetto all'immagine o al video, ma potenza narrativa decisamente superiore: il non veicolare la vista permette di lasciare liberi di ritrovarsi in un personalissimo ambiente creato dalla propria fantasia e dai propri ricordi.
+
+I materiali dell'archivio sono tutti registrati con recorder portatile digitale e tecniche microfoniche stereo, si consigia di fruire dell'archivio con un buon impianto audio o con cuffie.
 
 - Visita [l'archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) dei Monti Picentini
 
@@ -32,16 +34,18 @@ Archivio cominciato nel 2016 con ...
 
 ## Progetti artistici dal vivo
 
-Intorno a questa massa sonora concreta si è scelto di far orbitare satelliti rappresentati da progetti che vanno dalla divulgazione naturalistica web, alle installazioni sonore in spazi reali, fino al live electronics; la personale volontà è che MontiPicentiniDigitali possa poter vivere ed essere vissuto anche senza il filtro dello schermo di un computer o di un cellulare.
+Intorno a questa massa sonora concreta si è scelto di far orbitare progetti satellite che vanno dalla divulgazione naturalistica web, alle installazioni sonore in spazi reali, fino al live electronics. MontiPicentiniDigitali può vivere ed essere vissuto anche senza il filtro dello schermo di un computer o di un cellulare.
 
 - [Installazioni multimediali](https://bergsound.github.io/MontiPicentiniDigitali/InstallazioniSonore/)
 - [PicentiniMix](https://bergsound.github.io/MontiPicentiniDigitali/PicentiniMix/)
 
 ## Altri progetti
-- sentieri
-- foto/video
-- racconti
-- altro
+
+- Composizioni elettroacustiche
+- Foto e video
+- Sentieri
+- Racconti
+- Altro
 
 
 
