@@ -9,9 +9,15 @@ Per PicentiniMix01, della durata di circa 15’00’’, si è scelto di riprodu
 
 Il ruolo dell’elettronica è quello di accompagnare nella discesa il protagonista non umano, a volte sottolineando con morbidezza peculiarità sonore del paesaggio, altre interferendo in maniera più o meno distruttiva con le registrazioni concrete. Il significato di questi processi è lasciato volutamente aperto: le immagini non vogliono palesare la narrazione, ma sono il tentativo di riprodurre una percezione al limite tra il naturale e l’artefatto di un ambiente al cui interno ognuno può perdere o trovare ciò che preferisce.
 
-Guarda il video:
+Guarda i video:
 
-Scarica l'audio:
+- Esecuzione 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uS6TebW7zMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Esecuzione 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDHlhgwe1IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
