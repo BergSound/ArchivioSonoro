@@ -1,6 +1,6 @@
 # L'uomo
 
-<iframe src="https://preview.p5js.org/Berg_/embed/4WT9XMyW0" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://editor.p5js.org/Berg_/full/4WT9XMyW0"></iframe>
 
 - Frammento digitale _Origami_
 
