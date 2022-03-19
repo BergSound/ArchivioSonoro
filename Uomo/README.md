@@ -16,8 +16,7 @@ All'interno del parco è molto presente l'uomo e nell'area sono distribuiti 30 c
 
 
 
-Torna alla sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/) 
-Visita [la sound map interattiva](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
+Torna alla sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/) / Visita [la sound map interattiva](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
 
 Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
 
