@@ -1,9 +1,9 @@
 # L'acqua
 
-<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Pioggia_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Pioggia__full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Pioggia_
-- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Pioggia_full/)
+- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Pioggia__full/)
 
 Il gruppo montuoso è ricco di acque e sorgenti alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose. 
 
