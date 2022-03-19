@@ -1,12 +1,13 @@
 # L'acqua
 
-<iframe src="https://preview.p5js.org/Berg_/embed/lbQHsKvND" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Pioggia_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Pioggia_
+- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Pioggia_full/)
 
 Il gruppo montuoso è ricco di acque e sorgenti alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose. 
 
-I Picentini sono considerati la riserva d'acqua più grande del sud Italia e la terza riserva d'acqua in Europa. L'acqua di queste montagne alimenta la rete idrica di numerose province dalla Campania alla Puglia.
+I Picentini sono considerati la riserva d'acqua più grande del Sud Italia e la terza riserva d'acqua in Europa. L'acqua di queste montagne alimenta la rete idrica di numerose province dalla Campania alla Puglia.
 
 La maggior parte dei corsi d'acqua che nascono nel gruppo montuoso si dirigono verso il mar Tirreno e di questi sono degni di menzione il Sele, il Tusciano e il Picentino. I principali affluenti di fiumi maggiori sono il Calore Irpino e il suo tributario Sabato, entrambi confluiscono nel Volturno. 
 Dei numerosi corsi d'acqua dei Picentini, solo l'Ofanto sfocia nel mar Adriatico.
