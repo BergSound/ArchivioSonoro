@@ -2,7 +2,7 @@
 
 
 
-MontiPicentiniDigitali è un progetto artistico nato intorno alla personale passione per la montagna e la pratica del field recording. 
+Monti Picentini Digitali è un progetto artistico nato intorno alla personale passione per la montagna e la pratica del field recording. 
 
 La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali catturate all’interno del Parco Regionale dei Monti Picentini. Da questo nucleo è nato uno spazio in cui convivono suoni concreti e arte digitale.
 
@@ -22,9 +22,9 @@ Visita la galleria che ospita informazioni naturalistiche sui Picentini e framme
 
 ## L'archivio sonoro
 
-Le registrazioni presenti nell'archivio, acquisite per la prima volta nel 2015, sono nate con la necessità di afferrare le peculiarità sonore di un dato ambiente in un dato tempo. L'iniziale curiosità era nello sperimentare un ascolto di questi materiali in un ambiente non naturale e attraverso il mezzo digitale, per capire quanto ci si potessere reimmergere fedelmente nel luogo della registrazione. Dopo anni di ascolti si ritiene personalmente che il suono abbia meno capacità descrittive puntuali rispetto all'immagine o al video, ma potenza narrativa decisamente superiore: il non veicolare la vista permette di lasciare liberi di ritrovarsi in un personalissimo ambiente creato dalla propria fantasia e dai propri ricordi.
+Le registrazioni presenti nell'archivio, acquisite per la prima volta nel 2015, sono nate con la necessità di afferrare le peculiarità sonore di un dato ambiente in un dato tempo. 
 
-I materiali dell'archivio sono tutti registrati con recorder portatile digitale e tecniche microfoniche stereo, si consigia di fruire dell'archivio con un buon impianto audio o con cuffie.
+I materiali dell'archivio sono tutti registrati con recorder portatile digitale e tecniche microfoniche stereo, si consiglia di fruire dell'archivio con un buon impianto audio o con cuffie.
 
 - Visita [l'archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) dei Monti Picentini
 
