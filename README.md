@@ -13,7 +13,7 @@ La motrice di questo lavoro è stata la creazione di un [archivio sonoro interat
   
 ## I Monti Picentini
 
-Monti Picentini sono un gruppo montuoso dell'Appennino campano e ricoprono un’area calcareo-dolomitica di circa 62.000 ettari tra le provincie di Avellino e Salerno. Sono delimitati a nord dal Partenio, a ovest dai Monti Lattari, a est dall’Alta Irpinia e a sud dalla valle del fiume Sele.
+I Picentini sono un gruppo montuoso dell'Appennino campano e ricoprono un’area calcareo-dolomitica di circa 62.000 ettari tra le provincie di Avellino e Salerno. Sono delimitati a nord dal Partenio, a ovest dai Monti Lattari, a est dall’Alta Irpinia e a sud dalla valle del fiume Sele.
 
   
 Visita la galleria che ospita informazioni naturalistiche sui Picentini e frammenti di digital art:
