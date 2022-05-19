@@ -5,6 +5,7 @@
 - Frammento digitale _Nuvole_
 - [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Nuvole_full)
 
+<div align="justify">
 Il gruppo è costituito da rocce calcaree e dolomitiche.
 
 I Monti Picentini sono caratterizzati due settori geologicamente e morfologicamente differenti: sul lato occidentale sono costituiti prevalentemente da rocce sedimentarie carbonatiche (dolomie) che danno all'ambiente un carattere più frastagliato e aspro; la parte orientale è composta in genere da calcari ed assume una forma più compatta, con diverse vette che si innalzano da una piattaforma a circa 1000 metri di altitudine.
