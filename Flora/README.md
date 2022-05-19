@@ -5,7 +5,8 @@
 - Frammento digitale _Radici_
 - [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Radici_full/)
 
-<div align="justify">
+
+
 La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
 
 Fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900 metri e scendendo a quote più basse nelle zone più fredde del comprensorio (area del Laceno, valli del Terminio e dei monti Mai).
