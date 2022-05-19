@@ -5,6 +5,7 @@
 - Frammento digitale _Pioggia_
 - [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Pioggia__full/)
 
+<div align="justify">
 Il gruppo montuoso è ricco di acque e sorgenti alimentate dal fenomeno carsico e dalle abbondanti precipitazioni nevose e piovose. 
 
 I Picentini sono considerati la riserva d'acqua più grande del Sud Italia e la terza riserva d'acqua in Europa. L'acqua di queste montagne alimenta la rete idrica di numerose province dalla Campania alla Puglia.
