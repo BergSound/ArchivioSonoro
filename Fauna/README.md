@@ -5,6 +5,7 @@
 - Frammento digitale _Pelle di Salamandra_
 - [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Salamandra_full/)
 
+<div align="justify">
 Tra i mammiferi che caratterizzano i Monti sono presenti il lupo e il gatto selvatico, con segnalazioni di lontre e daini.
 
 Tra gli anfibi sono degni di menzione il tritone italico e la salamandra pezzata.
