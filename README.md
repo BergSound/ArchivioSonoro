@@ -4,6 +4,7 @@
 
 Monti Picentini Digitali è un progetto artistico nato intorno alla personale passione per la montagna e la pratica del field recording. 
 
+<div align="justify">
 La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali catturate all’interno del Parco Regionale dei Monti Picentini. Da questo nucleo è nato uno spazio in cui convivono suoni concreti e arte digitale.
 
 
