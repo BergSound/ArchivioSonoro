@@ -1,9 +1,9 @@
 # L'acqua
 
-<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Pioggia__full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Pioggia__full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Pioggia_
-- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Pioggia__full/)
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Pioggia__full/)
 
 
 
@@ -26,7 +26,7 @@ Nel periodo invernale la neve è presente già al di sopra dei 1000 metri, ma in
 
 
 
-Torna alla sezione [Vette](https://bergsound.github.io/MontiPicentiniDigitali/Vetta) / Prosegui la lettura nella sezione [Flora](https://bergsound.github.io/MontiPicentiniDigitali/Flora)
+Torna alla sezione [Vette](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta) / Prosegui la lettura nella sezione [Flora](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Flora)
 
 
-Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali) 
+Torna alla [Home](https://giuseppebergamino.github.io/MontiPicentiniDigitali) 
