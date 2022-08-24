@@ -1,9 +1,9 @@
 # L'uomo
  
-<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Origami_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Origami_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Origami_
-- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Origami_full/)
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Origami_full/)
 
 
 
@@ -18,9 +18,9 @@ All'interno del parco è molto presente l'uomo e nell'area sono distribuiti 30 c
 
 
 
-Torna alla sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/) / Visita [la sound map interattiva](https://bergsound.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
+Torna alla sezione [Fauna](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Fauna/) / Visita [la sound map interattiva](https://giuseppebergamino.github.io/MontiPicentiniDigitali/ArchivioSonoro/)
 
-Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
+Torna alla [Home](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
 
 
 
