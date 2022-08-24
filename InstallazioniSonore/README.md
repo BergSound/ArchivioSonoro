@@ -7,7 +7,7 @@ In questa sezione sono raccolte tutte le installazioni prodotte a partire dai ma
 
 
 
-<iframe width="560" height="315" src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/CF_render.png" style = "height: 100%; width: 100%; border: none; allowfullscreen"></iframe>
+![Render](/MontiPicentiniDigitali/docs/assets/CF_render.png)
 
 
 _Cinque Finestre_ è un’installazione sonora multimodale interattiva che grazie al field recording e alla realtà aumentata acustica mira a ristabilire una posizione di ascolto del soundscape più intima e meditativa. Rappresenta una delle varie controparti fisiche del progetto web Monti Picentini Digitali, di cui si fa portavoce utilizzando esclusivamente materiale proveniente dalla sua sound map on-line. 
