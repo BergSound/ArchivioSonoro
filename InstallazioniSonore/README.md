@@ -7,7 +7,8 @@ In questa sezione sono raccolte tutte le installazioni prodotte a partire dai ma
 
 
 
-![Render](/MontiPicentiniDigitali/docs/assets/CF_render.png)
+![Render](MontiPicentiniDigitali/docs/assets/CF_render.png)
+
 
 
 _Cinque Finestre_ è un’installazione sonora multimodale interattiva che grazie al field recording e alla realtà aumentata acustica mira a ristabilire una posizione di ascolto del soundscape più intima e meditativa. Rappresenta una delle varie controparti fisiche del progetto web Monti Picentini Digitali, di cui si fa portavoce utilizzando esclusivamente materiale proveniente dalla sua sound map on-line. 
