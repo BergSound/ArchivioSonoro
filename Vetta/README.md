@@ -1,9 +1,9 @@
 # Le vette
 
-<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Nuvole_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Nuvole_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Nuvole_
-- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Nuvole_full)
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Nuvole_full)
 
 
 
@@ -20,6 +20,6 @@ Degne di menzione sono anche le vette dell'Accellica (1.660 metri), del Mai (1.6
 
 
 
-Prosegui la lettura nella sezione [Acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua)
+Prosegui la lettura nella sezione [Acqua](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Acqua)
 
-Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali) 
+Torna alla [Home](https://giuseppebergamino.github.io/MontiPicentiniDigitali) 
