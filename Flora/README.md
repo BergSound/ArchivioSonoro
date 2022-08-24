@@ -1,9 +1,9 @@
 # La flora
 
-<iframe src="https://bergsound.github.io/MontiPicentiniDigitali/Radici_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - Frammento digitale _Radici_
-- [Full Screen](https://bergsound.github.io/MontiPicentiniDigitali/Radici_full/)
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/)
 
 
 
@@ -18,8 +18,8 @@ I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagn
 
 
 
-Torna alla sezione [Acqua](https://bergsound.github.io/MontiPicentiniDigitali/Acqua/) / Prosegui la lettura nella sezione [Fauna](https://bergsound.github.io/MontiPicentiniDigitali/Fauna/)
+Torna alla sezione [Acqua](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Acqua/) / Prosegui la lettura nella sezione [Fauna](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Fauna/)
 
-Torna alla [Home](https://bergsound.github.io/MontiPicentiniDigitali/)
+Torna alla [Home](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
 
 
