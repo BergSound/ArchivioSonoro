@@ -7,7 +7,7 @@ In questa sezione sono raccolte tutte le installazioni prodotte a partire dai ma
 
 
 
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/CF_render.png" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe width="560" height="315" src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/CF_render.png" style = "height: 100%; width: 100%; border: none; allowfullscreen"></iframe>
 
 
 _Cinque Finestre_ è un’installazione sonora multimodale interattiva che grazie al field recording e alla realtà aumentata acustica mira a ristabilire una posizione di ascolto del soundscape più intima e meditativa. Rappresenta una delle varie controparti fisiche del progetto web Monti Picentini Digitali, di cui si fa portavoce utilizzando esclusivamente materiale proveniente dalla sua sound map on-line. 
@@ -15,9 +15,9 @@ L’opera è composta da cinque finestre sorrette da piedistalli e disposte a se
 Cinque Finestre prevede un’interazione molto intuitiva tra fruitore e opera: il semplice atto di aprire una finestra e sporgersi. La mole di dati processati dal personale sistema di Position-Dynamic Binaural Synthesis permette una percezione auspicabilmente naturale dei cinque paesaggi sonori, specificatamente composti per una fruizione in realtà aumentata acustica. L’opera può essere esperita contemporaneamente da più visitatori che sceglieranno così collettivamente il soundscape finale da ascoltare, missando i vari suoni attraverso una maggiore o minore apertura delle finestre.
 
 
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/finestre2.jpeg" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/finestre2.jpeg" style = "height: 100%; width: 100%; border: none; allowfullscreen"></iframe>
 
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/finestre1.jpeg" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/foto_CF/finestre1.jpeg" style = "height: 100%; width: 100%; border: none; allowfullscreen"></iframe>
 
 
 
