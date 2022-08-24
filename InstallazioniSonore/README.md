@@ -7,7 +7,7 @@ In questa sezione sono raccolte tutte le installazioni prodotte a partire dai ma
 
 
 
-![Render](MontiPicentiniDigitali/docs/assets/CF_render.png](https://raw.githubusercontent.com/GiuseppeBergamino/MontiPicentiniDigitali/gh-pages/docs/assets/CF_render.png)
+![Render](https://raw.githubusercontent.com/GiuseppeBergamino/MontiPicentiniDigitali/gh-pages/docs/assets/CF_render.png)
 
 
 
