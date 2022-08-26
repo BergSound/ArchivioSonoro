@@ -9,7 +9,7 @@
 
 
 
-La motrice di questo lavoro è stata la creazione di un [archivio sonoro interattivo](https://giuseppebergamino.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali catturate all’interno del Parco Regionale dei Monti Picentini. Da questo nucleo è nato uno spazio in cui convivono suoni concreti e arte digitale.
+La motrice di questo lavoro è un [archivio sonoro interattivo](https://giuseppebergamino.github.io/MontiPicentiniDigitali/ArchivioSonoro/) che raccoglie e organizza una collezione di registrazioni ambientali catturate all’interno del Parco Regionale dei Monti Picentini. Da questo nucleo è nato uno spazio in cui convivono suoni concreti e arte digitale.
 
   
 ## I Monti Picentini
