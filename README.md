@@ -26,7 +26,7 @@ Visita la galleria che ospita informazioni naturalistiche sui Picentini e framme
 - [L'uomo](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Uomo/)
 
 
-## L'archivio sonoro
+## L'archivio sonoro interattivo
 
 Le registrazioni presenti nell'archivio, acquisite per la prima volta nel 2015, sono nate con la necessità di afferrare le peculiarità sonore di un dato ambiente in un dato tempo. 
 
