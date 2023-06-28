@@ -39,8 +39,8 @@ function setup() {
   
   for(let i = 0; i < numero_cerchi; i++) {
      
-    x[i] = 0;
-     y[i] = 0;
+     x[i] = floor(random(width));
+     y[i] = floor(random(height));
      
     target_x[i] = floor(random(width/4, width - width/4));
      target_y[i] = floor(random(height));
