@@ -1,4 +1,4 @@
-let numero_cerchi_max = 30;
+let numero_cerchi_max = 6;
 let numero_cerchi = 6;
 let x = [numero_cerchi_max];
 let y = [numero_cerchi_max];
